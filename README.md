@@ -10,6 +10,12 @@ Add your client secret and client id - both of which are supplied by Github.
 
 Once you have added your credentials, make sure to uncomment the .env.local file inside of your .gitignore!
 
+## UPDATES
+
+This app is a basic React app starter example. It does not use any state management such as Context API / Redux. Neither does it make use of React Hooks.
+
+More than likely I will update this app to include state management and also make use of hooks at some point soon in the future.
+
 ## Available Scripts
 
 In the project directory, you can run:
