@@ -1,4 +1,6 @@
-Created by Ash Patricks
+# Github User Finder
+
+This React app leverages the Github API to help you to search Github Users.
 
 ## IMPORTANT NOTE - GITHUB API KEYS
 
