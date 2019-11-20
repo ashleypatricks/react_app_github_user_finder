@@ -6,7 +6,7 @@
 .pnp.js
 
 # docs
-notes.md
+api_keys.md
 
 # testing
 /coverage
