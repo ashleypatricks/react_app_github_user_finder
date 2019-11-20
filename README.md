@@ -6,6 +6,8 @@ In order to run this app you will need to grab some API keys from Github in orde
 
 Add your client secret and client id - both of which supplied by Github.
 
+Once you have added your credentials, make sure to uncomment the .env.local file inside of your .gitignore!
+
 ## Available Scripts
 
 In the project directory, you can run:
