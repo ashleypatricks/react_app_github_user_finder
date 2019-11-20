@@ -6,7 +6,7 @@ This React app leverages the Github API to help you to search Github Users.
 
 In order to run this app you will need to grab some API keys from Github in order to query the Github User API. Add these keys to the .env.local file.
 
-Add your client secret and client id - both of which supplied by Github.
+Add your client secret and client id - both of which are supplied by Github.
 
 Once you have added your credentials, make sure to uncomment the .env.local file inside of your .gitignore!
 
